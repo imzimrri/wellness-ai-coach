@@ -2,15 +2,15 @@
   "name": "Zimrri",
   "age": 29,
   "height": "6'1",
-  "weight": "300",
+  "weight": "275",
   "gender": "Male",
   "goals": [
     "General Health",
-    "Better Sleep",
-    "Weight Loss"
+    "Muscle Gain",
+    "Better Sleep"
   ],
   "dietary_restrictions": [
     "None"
   ],
-  "current_injuries": "None"
+  "current_injuries": "My right knee hurts after playing pickleball. "
 }
