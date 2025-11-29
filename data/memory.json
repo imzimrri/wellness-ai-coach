@@ -1,0 +1,16 @@
+{
+  "name": "Zimrri",
+  "age": 29,
+  "height": "6'1",
+  "weight": "300",
+  "gender": "Male",
+  "goals": [
+    "General Health",
+    "Better Sleep",
+    "Weight Loss"
+  ],
+  "dietary_restrictions": [
+    "None"
+  ],
+  "current_injuries": "None"
+}
