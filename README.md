@@ -7,7 +7,7 @@ This project was built for the **Google AI Agents Intensive Capstone (Concierge 
 ---
 
 ## 🎥 Project Video
-[Link to YouTube Video Demo](https://youtube.com/...) *(Add your video link here)*
+[Link to YouTube Video Demo]([https://youtube.com/...](https://youtu.be/E-sCsYV7vGs))
 
 ---
 
