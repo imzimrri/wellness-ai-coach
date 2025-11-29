@@ -74,8 +74,8 @@ This project demonstrates the following key concepts from the AI Agents Intensiv
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/wellness-coach-capstone.git
-    cd wellness-coach-capstone
+    git clone https://github.com/imzimrri/wellness-ai-coach
+    cd wellness-ai-coach
     ```
 
 2.  **Install Dependencies**
